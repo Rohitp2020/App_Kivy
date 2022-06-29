@@ -1,1 +1,1 @@
-echo "This is my kivy app"
+ECHO "This is my kivy app"
